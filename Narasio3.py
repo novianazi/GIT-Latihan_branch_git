@@ -1,5 +1,5 @@
 def cetak_angka() :
-    for i in range(1,11):
+    for i in range(1,17):
         if i == 5:
             print(True)
 
